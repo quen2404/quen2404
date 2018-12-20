@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "quen2404",
+  "version": "1.0.0",
+  "description": "A personal card for Quentin Desramé (@quen2404)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/quen2404/quen2404.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Quentin Desramé <quen2404@gmail.com> (http://qdesrame.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
